@@ -47,6 +47,8 @@
         </dependency>
         <!--this dependency is optional one
         used to generate UI for graphql schema-->
+        <!--follow below link to open graphql UI-->
+        <!--http://localhost:8080/graphiql-->
         <dependency>
             <groupId>com.graphql-java</groupId>
             <artifactId>graphiql-spring-boot-starter</artifactId>
